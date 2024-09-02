@@ -1,4 +1,5 @@
 # Data Form Using PHP
+We will explain how to create a secure and user-friendly registry using PHP and MySQL. We will cover everything from creating HTML documents to managing text submissions with PHP to securely storing user information in a MySQL database.
 
 # Feature:
 - Enter your data and save into DB
