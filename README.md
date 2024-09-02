@@ -11,8 +11,8 @@
 
 # Further Steps
 - Extract Zip
-- Move the files into "C:\xampp\htdocs\your_folder_name" location
-- Follow up with url "http://localhost/foldername/filename.php" as an example
+- Move the files into (C:\xampp\htdocs\your_folder_name) location
+- Follow up with url (http://localhost/foldername/filename.php) as an example
 - Extension should be ".php"
 - As you can see the `.sql` file in that folder
 
