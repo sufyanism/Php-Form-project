@@ -17,7 +17,8 @@ We will explain how to create a secure and user-friendly registry using PHP and 
 - Extension should be ".php"
 - As you can see the `.sql` file in that folder
 
-# Import that file in PHPmyadmin "http://localhost/phpmyadmin/index.php" (URL)
+# Import that file in PHPmyadmin 
+(http://localhost/phpmyadmin/index.php")
 - First give name to your DB then import that .sql file into it
 
 # Connect your DB name with PHP code in code file "db.php" to get an access on DB to show the desired RESULT.
