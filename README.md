@@ -21,7 +21,7 @@ We will explain how to create a secure and user-friendly registry using PHP and 
 (http://localhost/phpmyadmin/index.php")
 - First give name to your DB then import that `.sql` file into it
 
-# Connect your DB name with PHP code in code file "db.php" to get an access on DB to show the desired RESULT.
+### Connect your DB name with PHP code in code file "db.php" to get an access on DB to show the desired RESULT.
 
 # Screencast
 https://github.com/user-attachments/assets/042bf327-691f-4223-9cf8-710b9fe4997a
