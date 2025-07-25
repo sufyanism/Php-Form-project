@@ -1,29 +1,29 @@
 # Data Form Using PHP
 We will explain how to create a secure and user-friendly registry using PHP and MySQL. We will cover everything from creating HTML documents to managing text submissions with PHP to securely storing user information in a MySQL database.
 
-# Feature:
+## Feature:
 - Enter your data and save into DB
 - Access data
 
-# Installation
+## Installation
 - Install PHP version 
 - PHP 8.1.29 (cli)
 - Install XAMMP
 
-# Further Steps
+## Further Steps
 - Extract Zip
 - Move the files into (C:\xampp\htdocs\your_folder_name) location
 - Follow up with url (http://localhost/foldername/filename.php) as an example
 - Extension should be ".php"
 - As you can see the `.sql` file in that folder
 
-# Import that file in PHPmyadmin 
+## Import that file in PHPmyadmin 
 (http://localhost/phpmyadmin/index.php")
 - First give name to your DB then import that `.sql` file into it
 
 ### Connect your DB name with PHP code in code file "db.php" to get an access on DB to show the desired RESULT.
 
-# Screencast
+## Screencast
 https://github.com/user-attachments/assets/042bf327-691f-4223-9cf8-710b9fe4997a
 
 # Screeshot
