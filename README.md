@@ -26,8 +26,8 @@ First give name to your DB then import that `.sql` file into it. Connect your DB
 ## Demo
 https://github.com/user-attachments/assets/042bf327-691f-4223-9cf8-710b9fe4997a
 
-1. ![Registered Users](https://github.com/user-attachments/assets/f8c91ada-a4c3-4dcd-98bd-015fe0da5d0a)
-2. ![Form](https://github.com/user-attachments/assets/88dacd42-0911-46f4-b1c4-3dbed16f8db7)
+ ![Registered Users](https://github.com/user-attachments/assets/f8c91ada-a4c3-4dcd-98bd-015fe0da5d0a)
+ ![Form](https://github.com/user-attachments/assets/88dacd42-0911-46f4-b1c4-3dbed16f8db7)
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
